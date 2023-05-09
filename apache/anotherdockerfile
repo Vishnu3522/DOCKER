@@ -1,0 +1,2 @@
+FROM vishnu352/vishnu_code
+COPY ./main.html /var/www/html/index.html
